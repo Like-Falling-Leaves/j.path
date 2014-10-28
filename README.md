@@ -2,7 +2,11 @@
 
 A small module to get and set fields in an object using the dot-path notation.
 
+<!-- 
+
 [![NPM info](https://nodei.co/npm/j.path.png?downloads=true)](https://npmjs.org/package/j.path)
+
+-->
 
 [![Travis build status](https://api.travis-ci.org/Like-Falling-Leaves/j.path.png?branch=master)](
 https://travis-ci.org/Like-Falling-Leaves/j.path)
