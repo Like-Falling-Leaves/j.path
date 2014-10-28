@@ -10,7 +10,7 @@
   "maintainers": [{"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"}],
   "version": "0.0.1",
   "repository": { "type": "git", "url": "git://github.com/like-falling-leaves/j.path.git" },
-  "readmeFilename": "README.md",
+  "readmeFilename": "examples.md",
   "dependencies": {},
   "devDependencies": { 
     "mocha": "1.*",
