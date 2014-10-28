@@ -14,7 +14,7 @@
   "dependencies": {},
   "devDependencies": { 
     "mocha": "1.*",
-    "underscore.js": "*" 
+    "underscore": "*" 
   },
   "scripts": {
     "test": "mocha test/",
