@@ -1,0 +1,23 @@
+{
+  "name": "j.path",
+  "description": "Yet another module for getting, setting fields using dotpath notation",
+  "keywords": ["JSON", "dotpath", "path"],
+  "homepage": "https://github.com/like-falling-leaves/j.path",
+  "bugs": { "url": "https://github.com/like-falling-leaves/j.path/issues" },
+  "license": "MIT",
+  "author": {"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"},
+  "main": "./path.js",
+  "maintainers": [{"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"}],
+  "version": "0.0.1",
+  "repository": { "type": "git", "url": "git://github.com/like-falling-leaves/j.path.git" },
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "devDependencies": { 
+    "mocha": "1.*",
+    "underscore.js": "*" 
+  },
+  "scripts": {
+    "test": "mocha test/",
+    "examples-doc": "mocha -R markdown test/examples.* > examples.md"
+  }
+}
